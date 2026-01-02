@@ -1,5 +1,7 @@
 # Language Writing Practice Tool
 
+![Start Screen](/screenshots/startscreen.png)
+![Example](/screenshots/example.png)
 A browser-based language writing and typing practice tool built with vanilla JavaScript, HTML, and CSS.  
 The application focuses on accuracy-based progression, timed completion, difficulty levels, and special character input for language learning.
 
